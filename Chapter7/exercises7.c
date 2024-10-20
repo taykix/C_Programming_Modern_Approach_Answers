@@ -48,3 +48,5 @@ int main(void)
 // Second Session 45:57 focused minutes.
 // Third Session 54:38 focused minutes.
 // Forth Session 40:14 focused minutes.
+// Fifth Session 26:11 focused minutes.
+// Sixth Session 12:30 focused minutes.
