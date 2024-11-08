@@ -64,7 +64,7 @@ int main(void)
         }
     }
     float avarage = sum / DAYS * HOURS;
-    printf("\n");
+
     //Exercise 10
     char chess_board[8][8] = {{'r', 'n', 'b', 'q', 'k', 'b', 'n', 'r'},
                             {'p', 'p', 'p', 'p', 'p','p', 'p', 'p'},
@@ -85,7 +85,7 @@ int main(void)
         }
         
     }
-    printf("\n");
+    
     //Excercise 11
     char checker_board[8][8];
 
@@ -114,3 +114,4 @@ int main(void)
 
 //First session 30:48 concentrated minutes.
 //Second session 18:22 concentrated minutes.
+//Third session 45:18 concentrated mimutes.
