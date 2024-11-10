@@ -108,6 +108,7 @@ int main(void)
         }
         
     }
+    printf("\n");
 
     return 0;
 }
@@ -115,3 +116,5 @@ int main(void)
 //First session 30:48 concentrated minutes.
 //Second session 18:22 concentrated minutes.
 //Third session 45:18 concentrated mimutes.
+//Forth session 42:12 concentrated minutes.
+//Fifth session 22:27 concentrated minutes.
