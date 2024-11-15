@@ -93,7 +93,6 @@ int main(void)
         }
     }
     //Print map
-        //Fill the array with '.'
     printf("\n---------------------------\n");
     for (int i = 0; i < 10; i++)
     {
