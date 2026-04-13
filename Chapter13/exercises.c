@@ -230,7 +230,23 @@ int main(int argc, char *argv[])
     }
     
     // Ex18
+    
+    void remove_filename(char *url)
+    {
+        int i = strlen(url);
 
+        while(i > 0) {
+            if (url[i] == '/')
+            {
+                url[i] = '\0';
+                break;
+            }
+            i--;
+        }
+    }
+    char url[] = "http://www.knking.com/index.html";
+    remove_filename(url);
+    printf("%s\n", url);
 
     return 0;
 }
