@@ -63,4 +63,4 @@ If you are also working through the book, I recommend trying to solve the exerci
 
 ## Project Status
 
-Ongoing / Completed as part of my personal C programming practice.
+Ongoing as part of my personal C programming practice.
